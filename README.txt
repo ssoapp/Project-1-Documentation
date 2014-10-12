@@ -1,0 +1,3 @@
+The two objects (keyholderbase and keyholderfinal) in this folder were created for the first FabLab project.
+The purpose of these objects was to create a 3D printed piece that compliments an initial item (in our case, keys) that also emphasizes or notes the affordances of the object.
+Keyholderbase is the intial design for the team and keyholderfinal is my personal take on the object based on what affordances I associate with a key. 
